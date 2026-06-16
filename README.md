@@ -17,7 +17,7 @@ Instead of treating sections as independent static pages, the app unifies the en
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 The project architecture relies strictly on modern web utilities to ensure rapid local rendering and clean asset loading:
 
