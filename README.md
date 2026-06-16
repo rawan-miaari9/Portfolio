@@ -40,7 +40,7 @@ Ensure you have **Node.js** (LTS version) installed on your machine. You can ver
 Open your terminal and pull the project code files to your local folder framework:
 ```bash
 
-### 3. Enter the Project Root Directory
+3. Enter the Project Root Directory
 Navigate directly into the main directory where your configuration files sit:
 cd your-portfolio-repo
 
